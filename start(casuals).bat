@@ -1,0 +1,1 @@
+conda activate General && python 25-1speedtest.py -ca && pause
